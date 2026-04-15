@@ -2,6 +2,24 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.23.
 
+
+## Structure
+
+📂 app
+├── 📁 core
+│   ├── 📂 auth
+│   ├── 📂 notifications
+├── 📁 shared
+│   ├── 📂 layout
+│   ├── 📂 components
+│   ├── 📂 pipes
+│   ├── 📂 directives
+├── 📁 features
+│   ├── 📂 tasks
+│   ├── 📂 dashboard
+│   ├── 📂 settings
+├── 📁 state
+
 ## Development server
 
 To start a local development server, run:
