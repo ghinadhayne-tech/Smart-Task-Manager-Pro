@@ -5,6 +5,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Structure
 
+```text
 📂 app
 ├── 📁 core
 │   ├── 📂 auth
@@ -19,6 +20,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 │   ├── 📂 dashboard
 │   ├── 📂 settings
 ├── 📁 state
+```
 
 ## Development server
 
